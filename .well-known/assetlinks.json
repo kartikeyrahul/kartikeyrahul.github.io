@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kartikeyrahul.twa",
+        "sha256_cert_fingerprints": ["96:86:7B:57:95:55:A3:D5:BD:E7:79:27:72:74:9B:73:9F:E8:5A:3E:C7:6E:DF:91:C7:66:C8:EE:73:39:97:E4"]
+      }
+    }]
