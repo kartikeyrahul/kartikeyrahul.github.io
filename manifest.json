@@ -1,0 +1,17 @@
+{
+  "name": "Design+ by Kartikey",
+  "short_name": "Design+ by Kartikey",
+  "description": "UPSC notes reader, editor and S Pen annotator",
+  "start_url": ".",
+  "scope": ".",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#F5F8FE",
+  "theme_color": "#EFF4FC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
